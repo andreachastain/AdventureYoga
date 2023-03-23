@@ -1,0 +1,119 @@
+.title{
+    font-family:"Dancing Script";
+    font-size: 85px;
+  
+}
+
+.parallax {
+        background-image: url("images/james-mertz-416207-unsplash-1600.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.spacer{
+    margin:3%
+}
+
+
+
+.parallax2 {
+    background-image: url("https://photos.letsroam.com/scavenger_hunt_locations/Cultural_Kansas_City_Scavenger_Hunt_Kansas_City_Missouri_team_building_1528738405_large.jpg");
+
+/* Set a specific height */
+min-height: 300px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.spacer{
+margin:3%
+}
+
+
+
+
+
+.parallaxSTL {
+    background-image: url("https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51i6bzs1u5L.jpg");
+
+/* Set a specific height */
+min-height: 300px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.spacer{
+margin:3%
+}
+
+#zentravels{
+    width:auto;
+    height: 50vh;
+    border-radius: 100%;
+   
+}
+
+/* #colAdven{
+    background-image: url("images/james-mertz-416207-unsplash-1600.jpg");
+    width: 100%;
+    height: 30vh;
+    flex-wrap:wrap ;
+} */
+
+#clock{
+    font-family: Comfortaa;
+    font-size: 55px;
+}
+
+
+
+#stlKc{
+    font-family: "Dancing Script";
+    font-size: 65px;
+}
+
+#whirlwind{
+    width: 95%;
+}
+/* 
+body{
+    background-color:#e9d74d ;
+} */
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 3%;
+  }
+
+  #wte{
+    font-family: Bowlby One;
+   font-size: 35px;
+    word-wrap: normal;
+  }
+
+  #pigwichImg{
+    width: 75%;
+   padding-left: 15%;
+    align-items: center;
+    /* margin-right: 3%; */
+  }
