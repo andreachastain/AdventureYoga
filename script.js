@@ -4,7 +4,7 @@
 
 
 // Set the date we're counting down to
-let countDownDate = new Date("mar 30, 2023 07:30:00").getTime();
+let countDownDate = new Date("aug 3, 2023 07:30:00").getTime();
 
 // Update the count down every 1 second
 let x = setInterval(function() {
@@ -30,4 +30,4 @@ let x = setInterval(function() {
     clearInterval(x);
     document.getElementById("clock").innerHTML = "Have an awesome Adventure";
   }
-}, 1000);
+}, 1000);4567

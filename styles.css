@@ -117,3 +117,10 @@ body{
     align-items: center;
     /* margin-right: 3%; */
   }
+
+  .navLower, h3{
+    text-align: center;
+    padding: 3%;
+    color:#43250E
+
+  }
