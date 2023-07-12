@@ -25,7 +25,7 @@
 
 
 .parallax2 {
-    background-image: url("https://photos.letsroam.com/scavenger_hunt_locations/Cultural_Kansas_City_Scavenger_Hunt_Kansas_City_Missouri_team_building_1528738405_large.jpg");
+    background-image: url("images/Profile-Storm_2b-2048x1365.jpg");
 
 /* Set a specific height */
 min-height: 300px;
@@ -37,6 +37,18 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
+.parallaxKC {
+    background-image: url("https://photos.letsroam.com/scavenger_hunt_locations/Cultural_Kansas_City_Scavenger_Hunt_Kansas_City_Missouri_team_building_1528738405_large.jpg");
+
+/* Set a specific height */
+min-height: 300px;
+
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
 
 .spacer{
 margin:3%
@@ -118,9 +130,22 @@ body{
     /* margin-right: 3%; */
   }
 
-  .navLower, h3{
+  .navLower h3{
     text-align: center;
     padding: 3%;
     color:#43250E
 
   }
+  .card-title{
+    text-align: center;
+    font-family: dancing script;
+    font-size: 35px;
+    font-weight: 600;
+  }
+
+  .card-text{
+    padding: 3%;
+    font-family:omfortaa;
+    font-size: 19px;
+  }
+
