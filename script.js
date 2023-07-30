@@ -28,6 +28,6 @@ let x = setInterval(function() {
   // If the count down is finished, write some text
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("clock").innerHTML = "Have an awesome Adventure";
+    document.getElementById("clock").innerHTML = "We are on our awesome adventure";
   }
 }, 1000);4567
