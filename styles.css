@@ -155,3 +155,15 @@ body{
   #liHeader{
     font-family: Caveat;
 }
+
+.accordion_accordion-flush, p{
+    font-family:dancing script;
+    font-size: 19px;
+    
+   
+} 
+
+
+.accordion-header{
+    text-align: center;
+}
